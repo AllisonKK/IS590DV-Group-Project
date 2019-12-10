@@ -10,3 +10,7 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+	- seaborn
+	- plotly
+	- bqplot
+	- ipywidgets
