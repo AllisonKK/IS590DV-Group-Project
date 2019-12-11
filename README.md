@@ -1,28 +1,13 @@
 We are INVISSSIBLE!
 
-# How to work on this project
+# Dashboard(Binder+Voila)
+https://mybinder.org/v2/gh/AllisonKK/IS590DV-Group-Project/master?filepath=final.ipynb
 
-- Clone it to your local
+# Note
+- It might take few minutes to launch the project on MyBinder.
+- After launch complete, hit the [Volia] button to init the HTML presentation mode.
+- For unknown reason, some interactive widgets might not initiate correctly. Hitting [screen shot] button is a workaround to solve this problem.
 
-```git clone https://github.com/thitta/IS590DV-Group-Project```
-
-- Install the Dependencies 
-
-To avoid version conflict issues, it's recommended to create a new Python virtual env and install the designated versions of dependencies listed in the `requirements.txt` file.
-
-If you are using pip, you can execute: 
-
-```pip install -r <path/to/the/> requirements.txt```
-
-- Work on it and PUSH back
-
-  - **(Optional / Recommended)** CHECKOUT a branch (based on the first commit of the master branch), local COMMIT on your branch, and PUSH your branch to the origin when you finish your part. The branch name can be your name.
-  
-  - **(Work Around)** You can directly send your file to our slack channel. I will handle the merge manually.
-  
-  # Final Version Link
-  
-  https://mybinder.org/v2/gh/AllisonKK/IS590DV-Group-Project/master?filepath=final.ipynb
-  
-  Please wait for the notebook loading it will automatically jump to a new page and then please click tab Voila on the tool bar and you can see the dashboard.
-  Sometimes part4 needs a long time to load. Thank you for your patience!
+# How to Run this Project on Local
+- To avoid dependencies conflict issues, we STRONGLY RECOMMENDED you init a new Python virtual env and install all the dependencies through the requirements.txt file.
+- If some images or widgets don't show automatically, try to execute every cell manually (from the first cell to the end).
