@@ -24,4 +24,4 @@ If you are using pip, you can execute:
   
   https://mybinder.org/v2/gh/AllisonKK/IS590DV-Group-Project/master?filepath=final.ipynb
   
-  Please wait for the notebook loading it will automatically jump to a new page and then please use tab Voila on the tool bar and you can see the dashboard.
+  Please wait for the notebook loading it will automatically jump to a new page and then please click tab Voila on the tool bar and you can see the dashboard.
